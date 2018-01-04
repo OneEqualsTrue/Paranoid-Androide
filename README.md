@@ -1,3 +1,6 @@
+I recomend a text editor where you can minimize the <p> tags, I don't know what I was thinking. This one is just a fun little thing, pretty useless, but I didn't have anything to do this morning...
+ 
+---
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
